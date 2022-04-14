@@ -21,4 +21,6 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - run: GET https://onemanvelgar.herokuapp.com/
+      - run: GET https://onemanvelgar.herokuapp.com/dummy/
+      - run: GET https://onemanvelgar.herokuapp.com/tester/
+      - run: GET https://onemanvelgar.herokuapp.com/miwebh/
