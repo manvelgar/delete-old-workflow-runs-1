@@ -26,4 +26,7 @@ jobs:
       - run: GET https://onemanvelgar.herokuapp.com/miwebh/
       - run: GET https://onemanvelgar.herokuapp.com/e5vlz/
       - run: GET https://man-onemanager.herokuapp.com/
-      - run: GET https://sugar-turquoise-star.glitch.me/
+      - run: GET https://sugar-turquoise-star.glitch.me/deahora/
+      - run: GET https://sugar-turquoise-star.glitch.me/homew/
+      - run: GET https://sugar-turquoise-star.glitch.me/goodbye/
+      
