@@ -29,4 +29,8 @@ jobs:
       - run: GET https://sugar-turquoise-star.glitch.me/deahora/
       - run: GET https://sugar-turquoise-star.glitch.me/homew/
       - run: GET https://sugar-turquoise-star.glitch.me/goodbye/
+      - run: GET https://manvelgar-onem-3.herokuapp.com/googbye/
+      - run: GET https://manvelgar-onem-3.herokuapp.com/homewrk/
+      - run: GET https://manvelgar-onem-3.herokuapp.com/deahora/
+      - run: GET https://manvelgar-onem-3.herokuapp.com/cristorey1981/
       
