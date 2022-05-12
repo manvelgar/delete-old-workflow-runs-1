@@ -33,4 +33,5 @@ jobs:
       - run: GET https://manvelgar-onem-3.herokuapp.com/homewrk/
       - run: GET https://manvelgar-onem-3.herokuapp.com/deahora/
       - run: GET https://manvelgar-onem-3.herokuapp.com/cristorey1981/
+      - run: GET https://manvelgar-onem-3.herokuapp.com/e5spain/
       
