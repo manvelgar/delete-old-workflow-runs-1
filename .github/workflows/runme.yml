@@ -21,17 +21,17 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - run: GET https://onemanvelgar.herokuapp.com/dummy/
-      - run: GET https://onemanvelgar.herokuapp.com/tester/
-      - run: GET https://onemanvelgar.herokuapp.com/miwebh/
-      - run: GET https://onemanvelgar.herokuapp.com/e5vlz/
-      - run: GET https://man-onemanager.herokuapp.com/
-      - run: GET https://sugar-turquoise-star.glitch.me/deahora/
-      - run: GET https://sugar-turquoise-star.glitch.me/homew/
-      - run: GET https://sugar-turquoise-star.glitch.me/goodbye/
-      - run: GET https://manvelgar-onem-3.herokuapp.com/googbye/
-      - run: GET https://manvelgar-onem-3.herokuapp.com/homewrk/
-      - run: GET https://manvelgar-onem-3.herokuapp.com/deahora/
-      - run: GET https://manvelgar-onem-3.herokuapp.com/cristorey1981/
-      - run: GET https://manvelgar-onem-3.herokuapp.com/e5spain/
+      - run: curl -s https://onemanvelgar.herokuapp.com/dummy/
+      - run: curl -s https://onemanvelgar.herokuapp.com/tester/
+      - run: curl -s https://onemanvelgar.herokuapp.com/miwebh/
+      - run: curl -s https://onemanvelgar.herokuapp.com/e5vlz/
+      - run: curl -s https://man-onemanager.herokuapp.com/
+      - run: curl -s https://sugar-turquoise-star.glitch.me/deahora/
+      - run: curl -s https://sugar-turquoise-star.glitch.me/homew/
+      - run: curl -s https://sugar-turquoise-star.glitch.me/goodbye/
+      - run: curl -s https://manvelgar-onem-3.herokuapp.com/googbye/
+      - run: curl -s https://manvelgar-onem-3.herokuapp.com/homewrk/
+      - run: curl -s https://manvelgar-onem-3.herokuapp.com/deahora/
+      - run: curl -s https://manvelgar-onem-3.herokuapp.com/cristorey1981/
+      - run: curl -s https://manvelgar-onem-3.herokuapp.com/e5spain/
       
